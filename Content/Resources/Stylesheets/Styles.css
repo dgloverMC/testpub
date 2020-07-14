@@ -16,6 +16,7 @@ body
 {
 	color: var(--Dark);
 	font-family: Arial, Avenir, Myriad;
+	background-image: url('../Images/1.png');
 }
 
 .body-container

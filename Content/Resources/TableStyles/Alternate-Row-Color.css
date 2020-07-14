@@ -50,6 +50,8 @@ mcTableHeadStyle
 	cell-padding-right: 10px;
 	cell-padding-top: 10px;
 	cell-padding-bottom: 10px;
+	cell-content-style-tag: p;
+	cell-content-style-class: header4;
 }
 
 mcTableBodyStyle
