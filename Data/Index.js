@@ -1,1 +1,0 @@
-define({numchunks:1,prefix:'Index_Chunk',terms:[{t:'Term 1',c:0,$:1},{t:'Term 2',c:0,$:1}]});
